@@ -1,0 +1,5 @@
+accelerate
+glob
+pillow>=9.0
+torch
+transformers
